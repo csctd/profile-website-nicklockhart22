@@ -3,4 +3,4 @@
 Coding is fun
 
 
-I lie computer Science
+I like computer Science
