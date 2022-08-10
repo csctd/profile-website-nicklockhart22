@@ -1,6 +1,6 @@
-# Page Title
+# Nick
 
-A short introduction for the top of your main page
+Coding is fun
 
 
-More content you want on your page
+I like computer Science
